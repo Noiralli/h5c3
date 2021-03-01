@@ -1,0 +1,48 @@
+.container {
+  width: 1280px;
+  font-family: ArialMT;
+}
+@font-face {
+  font-family: ArialMT; /* Гарнитура шрифта */
+  src: url(./fonts/ArialMT.ttf); /* Путь к файлу со шрифтом */
+}
+
+/* Product name */
+.page-header {
+}
+.page-header-wrp {
+}
+.page-header-title {
+}
+.page-header-list {
+}
+.page-header-list-item {
+}
+.page-header-img {
+}
+
+/* About your product */
+.about-your-product {
+}
+.about-your-product-video {
+}
+
+/* Dignity and pluses product */
+.dignity-and-pluses-product {
+}
+.dignity-and-pluses-product-title {
+}
+.dignity-and-pluses-product-details {
+}
+
+/* Screenshots */
+.Screenshots {
+}
+.Screenshots-title {
+}
+.Screenshots-figure {
+}
+.Screenshots-figure-img {
+}
+.Screenshots-figure-content {
+}
