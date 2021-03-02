@@ -6,14 +6,13 @@
 .container {
   width: 1280px;
   font-family: ArialMT;
+  margin: 0 auto;
 }
-
 
 /* Product name */
 .page-header {
-  
   background-color: #445161;
-  color: #ffffff
+  color: #ffffff;
 }
 .page-header-wrp {
 }
