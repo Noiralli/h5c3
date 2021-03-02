@@ -1,14 +1,19 @@
-.container {
-  width: 1280px;
-  font-family: ArialMT;
-}
 @font-face {
   font-family: ArialMT; /* Гарнитура шрифта */
   src: url(./fonts/ArialMT.ttf); /* Путь к файлу со шрифтом */
 }
 
+.container {
+  width: 1280px;
+  font-family: ArialMT;
+}
+
+
 /* Product name */
 .page-header {
+  
+  background-color: #445161;
+  color: #ffffff
 }
 .page-header-wrp {
 }
